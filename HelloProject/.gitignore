@@ -1,10 +1,12 @@
 # Java build output
+target/
 out/
 *.class
 
 # IDE files
 .idea/
 .vscode/
+*.iml
 
 # OS files
 .DS_Store
